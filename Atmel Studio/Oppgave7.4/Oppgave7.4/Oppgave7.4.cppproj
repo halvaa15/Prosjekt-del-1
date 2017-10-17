@@ -12,9 +12,9 @@
     <OutputFileName>$(MSBuildProjectName)</OutputFileName>
     <OutputFileExtension>.elf</OutputFileExtension>
     <OutputDirectory>$(MSBuildProjectDirectory)\$(Configuration)</OutputDirectory>
-    <AssemblyName>Oppgave7,4</AssemblyName>
-    <Name>Oppgave7,4</Name>
-    <RootNamespace>Oppgave7,4</RootNamespace>
+    <AssemblyName>Oppgave7.4</AssemblyName>
+    <Name>Oppgave7.4</Name>
+    <RootNamespace>Oppgave7.4</RootNamespace>
     <ToolchainFlavour>Native</ToolchainFlavour>
     <KeepTimersRunning>true</KeepTimersRunning>
     <OverrideVtor>false</OverrideVtor>
